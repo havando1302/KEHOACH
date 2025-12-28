@@ -25,7 +25,7 @@
     "sonner": "^2.0.7",
     "tailwind-merge": "^3.3.1",
     "tailwindcss": "^4.1.17",
-    "todox": "file:.."
+    "taskflow": "file:.."
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",

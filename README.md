@@ -1,2 +1,4 @@
-Trang web xây dựng kế hoạch được xây dựng bằng React + Node + MongoDB + Tailwind 4 + Shadcn 
-Được deloy trên Render
+# TaskFlow
+
+Trang web quản lý kế hoạch công việc được xây dựng bằng React + Node + MongoDB + Tailwind 4 + Shadcn.
+Được deploy trên Render.
