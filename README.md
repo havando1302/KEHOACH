@@ -135,7 +135,6 @@ Dự án đã được cấu hình monorepo trọn gói phục vụ cả Backend
    - `NODE_ENV`: `production`
 5. Bấm **Deploy Web Service**. Render sẽ tự động build frontend và chạy ứng dụng tại liên kết:  
    👉 **https://taskflow-kehoach.onrender.com/**
-
 ---
 
 ## 👨‍💻 Tác Giả
@@ -146,6 +145,3 @@ Dự án đã được cấu hình monorepo trọn gói phục vụ cả Backend
 
 ---
 
-## 📄 Giấy Phép (License)
-
-Dự án được phân phối dưới giấy phép [MIT License](LICENSE).
